@@ -1,0 +1,32 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+.vscode/
+TestResults/
+*.dbmdl
+*.pdb
+*.opendb
+*.DS_Store
+
+# Rider
+.idea/
+
+# Build output
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
